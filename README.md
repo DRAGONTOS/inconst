@@ -18,7 +18,7 @@ This project will be licensed under gplv3 and pull requests are open. :)
 It will only be for linux, might include windows to in the future. but I wont be the one doing so.
 
 ### STUDIES 
-All my studies will be in [./studies].
+All my studies will be in [./docs].
 
 ### NAME
 Came up with it on the spot. If you don't like it and have suggestions,
